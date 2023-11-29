@@ -1,5 +1,4 @@
 # PC-State-Display
-&lt;Hello_World/>
 
 1. Plug the device into the computer via a USB-B to USB-A connector.
 
