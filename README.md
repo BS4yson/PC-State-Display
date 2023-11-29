@@ -1,6 +1,6 @@
 # PC-State-Display
 
-1. Plug the device into the computer via a USB-B to USB-A connector.
+1. Plug the device into the computer.
 
 2. Go to device manager; under Ports, you must see a driver named "Silicon Labs CP210X USB to UART Bridge (COM [Port Number])."
 
